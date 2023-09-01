@@ -6,4 +6,4 @@ Meine fundierten Kenntnisse in HTML, CSS und JavaScript sowie meine Erfahrung mi
 Zusätzlich zu meinen technischen Fähigkeiten bringe ich ein hohes Maß an Kreativität, Aufmerksamkeit für Details und Problemlösungskompetenz mit. Ich arbeite gerne im Team, um die besten Ergebnisse zu erzielen, und bin ständig auf der Suche nach neuen Herausforderungen und Möglichkeiten zur Verbesserung meiner Fähigkeiten und Kenntnisse.
 
 Ich habe auch Erfahrung mit verschiedenen Technologien und Werkzeugen wie Git, Node.js, MongoDB, SQL und WordPress. Meine Fähigkeiten im Umgang mit APIs und die Arbeit mit Datenbanken ermöglichen es mir, robuste und skalierbare Webanwendungen zu entwickeln.
-[![linkedin](https://img.shields.io/badge/Linkedin-000000?style=for-the-badge&logo=Linkedin&logoColor=white)](linkedin.com/in/ramazan-kacmaz)
+
